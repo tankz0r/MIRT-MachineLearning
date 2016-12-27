@@ -4,8 +4,8 @@
 
 В эту специализацию входят:
 
-1. [Математика и Python для анализа данных](https://github.com/tankz0r/)
-2. [Обучение на размеченных данных](https://github.com/tankz0r/)
+1. [Математика и Python для анализа данных](https://github.com/tankz0r/MIRT-MachineLearning/tree/master/1-mathematics-and-python)
+2. [Обучение на размеченных данных](https://github.com/tankz0r/MIRT-MachineLearning/tree/master/2-supervised-learning)
 
 
 
